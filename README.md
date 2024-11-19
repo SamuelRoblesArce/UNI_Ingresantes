@@ -9,4 +9,4 @@ df_cepre: https://www.datosabiertos.gob.pe/dataset/alumnos-del-centro-pre-univer
 
 En el cuaderno 1: Se aplico fuzzywuzzy con la finalidad de corregir errores de texto, por ejemplo: 0025 San Martin de Porres y 0025 San Martín de Porras son considerados dos colegios distintos, a pesar de que se debió a un error humano, a fin de no corregir los miles de valores manualmente, se aplico fuzzywuzzy para que agrupe las palabras con cierta familiaridad y las agrupe. 
 
-En el cuaderno 2: Se realizo el merge y se analizó las bases de datos conjuntas. 
+En el cuaderno 2: Se realizo el merge de ambos datasets y se analizó las bases de datos conjuntas. 
